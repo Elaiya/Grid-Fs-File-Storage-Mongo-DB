@@ -4,9 +4,10 @@ The Project consists of code related to store file in mongo db and retrive the f
 
 1. Project structure.
 
-   src/config - consists of config js files(dotenv) __
-   src/loaders - loaders used to load application components like express app and routes. __
-   src/utils - Logger configuration. __
-   src/index - app intialization. __
-
+   src/config - consists of config js files(dotenv) <br/>
+   src/loaders - loaders used to load application components like express app and routes. <br/>
+   src/utils - Logger configuration.<br/>
+   src/index - app intialization. <br/>
    server.js - server intialization.
+   
+   examples - consists of examples for various library,framework and postman.
