@@ -9,3 +9,5 @@ The Project consists of code related to store file in mongo db and retrive the f
    src/utils - Logger configuration.<br/>
    src/index - app intialization. <br/>
    server.js - server intialization.
+   
+   examples - consists of examples for varous library,framework and postman.
